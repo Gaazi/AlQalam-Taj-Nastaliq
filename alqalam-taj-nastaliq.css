@@ -1,0 +1,18 @@
+/* AlQalam_Taj_Nastaleeq */
+@font-face {
+  font-family: "AlQalam-Taj-Nastaleeq";
+  src: url(https://cdn.jsdelivr.net/npm/alqalam-taj-nastaliq/fonts/alqalam-taj-nastaliq.woff2) format('woff2'),
+       url(https://unpkg.com/alqalam-taj-nastaliq/fonts/alqalam-taj-nastaliq.woff2) format('woff2');
+}
+  /* CSS Aplly */
+body {
+    font-family: "AlQalam-Taj-Nastaleeq";
+}
+.post-title {
+  font-family: "AlQalam-Taj-Nastaleeq", "JameelNooriNastaliq", "Mehr", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri";
+}
+
+.post-body {
+      font-family: "AlQalam-Taj-Nastaleeq", "JameelNooriNastaliq", "Mehr", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri";
+}   
+
